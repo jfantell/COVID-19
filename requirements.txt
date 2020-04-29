@@ -1,0 +1,10 @@
+pandas
+numpy
+matplotlib
+pycountry_convert
+folium
+plotly
+calmap
+scipy
+descartes
+pandoc
