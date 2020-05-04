@@ -8,3 +8,4 @@ calmap
 scipy
 descartes
 pandoc
+geopandas
